@@ -1,1 +1,1 @@
-const apiSecretKey="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";
+const apiSecretKey="place your api Key";
