@@ -1,16 +1,26 @@
-# flutter_chatgpt_app
+# Introduction
+This is a guide on how to integrate OpenAI with Flutter. OpenAI is a powerful artificial intelligence platform that can be used for a variety of applications, including natural language processing, image recognition, and game playing.
 
-A new Flutter project.
+Flutter is a mobile application development framework created by Google that allows developers to build high-quality, natively compiled applications for mobile, web, and desktop from a single codebase.
 
-## Getting Started
+By integrating OpenAI with Flutter, you can build applications that leverage the power of artificial intelligence to provide advanced functionality and improved user experiences
+# Prerequisites
+Flutter SDK
+API key for OpenAI GPT-3 Available here
 
-This project is a starting point for a Flutter application.
+# Getting Started
+Clone the repository
+Run flutter pub get to install dependencies
+Replace the  API key with your own in the constant.dart file
+Run the app on an emulator or physical device
 
-A few resources to get you started if this is your first Flutter project:
+The chatbot can be further customized to fit your use-case by modifying the code in the main.dart file and other files. 
+The source code for the chatbot is available on GitHub.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# Development by
+OpenAI - https://openai.com.                
+Flutter - https://flutter.dev/
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Contribution
+Please open an issues on the repository if you find any bugs or if you would like to contribute
+
